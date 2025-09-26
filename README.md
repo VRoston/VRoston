@@ -9,6 +9,6 @@
 </p>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=VRoston&theme=dark&hide_border=false" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=VRoston&theme=dark&hide_border=false&card_width=750" />
   </a>
 </p>
