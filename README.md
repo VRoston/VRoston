@@ -1,6 +1,4 @@
-### 👋 Olá! Eu sou o Victor
-
-### 📊 Minhas Estatísticas no GitHub
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Victor%20de%20Melo%20Roston&section=header&textBg=false&fontAlign=50&fontAlignY=50)
 
 <p align="center">
   <a href="https://github.com/seu-usuario">
