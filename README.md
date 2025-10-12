@@ -2,13 +2,13 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <a href="https://github.com/seu-usuario">
+  <a>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VRoston&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRoston&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a>
     <img src="https://nirzak-streak-stats.vercel.app/?user=VRoston&theme=dark&hide_border=false&card_width=750" />
   </a>
 </p>
